@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <style>
+      .fullscreen
+      {
+        height: 100vh;
+        width: 100%;
+	background-image: linear-gradient(
+  180deg,
+  hsl(240deg 100% 20%) 0%,
+  hsl(269deg 100% 21%) 5%,
+  hsl(285deg 100% 21%) 10%,
+  hsl(298deg 100% 21%) 14%,
+  hsl(310deg 100% 25%) 19%,
+  hsl(318deg 100% 29%) 24%,
+  hsl(324deg 100% 32%) 29%,
+  hsl(329deg 100% 36%) 33%,
+  hsl(333deg 100% 39%) 38%,
+  hsl(336deg 100% 42%) 43%,
+  hsl(340deg 99% 45%) 48%,
+  hsl(351deg 86% 55%) 52%,
+  hsl(0deg 93% 61%) 57%,
+  hsl(9deg 100% 61%) 62%,
+  hsl(17deg 100% 59%) 67%,
+  hsl(24deg 100% 57%) 71%,
+  hsl(31deg 100% 54%) 76%,
+  hsl(38deg 100% 50%) 81%,
+  hsl(42deg 100% 50%) 86%,
+  hsl(47deg 100% 50%) 90%,
+  hsl(51deg 100% 50%) 95%,
+  hsl(55deg 100% 50%) 100%
+);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	font-weight: bold;
+	font-size: 3rem;
+	font-family: ""
+      }
+    </style>
+    <title>Maces Andrei Portofolio</title>
+  </head>
+  <body>
+    <h1>Salut, ma numesc Maces Andrei!</h1>
+  </body>
+</html>
